@@ -1,0 +1,19 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "\"# project-euler\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalugao/project-euler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalugao/project-euler/issues"
+  },
+  "homepage": "https://github.com/nalugao/project-euler#readme"
+}
